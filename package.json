@@ -30,7 +30,7 @@
         "bower"              : "1.2.x",
         "combohandler"       : "0.2.x",
         "csv"                : "0.3.x",
-        "db-migrate"         : "0.4.x",
+        "db-migrate"         : "0.10.0",
         "deep-freeze"        : "latest",
         "express"            : "3.2.x",
         "express-slash"      : "latest",
