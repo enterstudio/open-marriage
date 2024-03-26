@@ -32,7 +32,7 @@
         "csv"                : "0.3.x",
         "db-migrate"         : "0.4.x",
         "deep-freeze"        : "latest",
-        "express"            : "3.2.x",
+        "express"            : "4.19.2",
         "express-slash"      : "latest",
         "express-state"      : "latest",
         "express3-handlebars": "latest",
