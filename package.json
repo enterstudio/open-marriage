@@ -27,18 +27,18 @@
 
     "dependencies": {
         "async"              : "0.2.x",
-        "bower"              : "1.2.x",
+        "bower"              : "1.8.9",
         "combohandler"       : "0.2.x",
         "csv"                : "0.3.x",
-        "db-migrate"         : "0.4.x",
+        "db-migrate"         : "0.10.0",
         "deep-freeze"        : "latest",
         "express"            : "3.2.x",
         "express-slash"      : "latest",
         "express-state"      : "latest",
         "express3-handlebars": "latest",
-        "handlebars"         : "1.0.x",
+        "handlebars"         : "3.0.4",
         "pg"                 : "1.1.x",
-        "request"            : "2.25.0"
+        "request"            : "2.88.2"
     },
 
     "scripts": {
